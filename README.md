@@ -1,6 +1,6 @@
 # Desafio_Thales
 
-Instruções de compilação
+Instruções de compilação:
 
 
 make: compila o projeto
