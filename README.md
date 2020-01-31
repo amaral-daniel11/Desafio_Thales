@@ -1,5 +1,8 @@
 # Desafio_Thales
 
+Em /src/main.cc deixei toda a estrutura teórica do projeto e os detalhes que tinha pensado para implementação, além do possível fluxo de código.
+
+
 Instruções de compilação:
 
 
